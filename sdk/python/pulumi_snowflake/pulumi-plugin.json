@@ -1,0 +1,5 @@
+{
+  "resource": true,
+  "name": "snowflake",
+  "server": "github://api.github.com/dirien/pulumi-snowflake"
+}
